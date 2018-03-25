@@ -1,0 +1,8 @@
+indexes:
+
+- kind: Greeting
+  properties:
+  - name: content
+  - name: price
+  - name: date
+    direction: desc
